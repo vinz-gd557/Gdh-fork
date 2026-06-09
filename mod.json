@@ -1,13 +1,13 @@
 {
-    "geode": "5.7.1",
+    "geode": "3.3.0",
     "gd": {
-        "win": "2.2081",
+        "win": "2.206",
         "android": "2.2081"
     },
-    "id": "vinz.mod_keren_pertama",
-    "name": "Vinz First Mod",
+    "id": "vinz.gdh_buatan_sendiri",
+    "name": "Vinz Menu",
     "version": "v1.0.0",
     "developer": "Vinz",
-    "description": "Mod buatan Vinz sendiri yang anti-stress dan lancar di 2.2081!",
+    "description": "Mod Menu buatan Vinz sendiri dengan fitur Noclip, Speedhack, dan Bot Replay!",
     "dependencies": []
 }
