@@ -1,13 +1,11 @@
 {
-    "geode": "3.3.0",
-    "gd": {
-        "win": "2.206",
-        "android": "2.2081"
-    },
+    "geode": "5.7.1",
     "id": "vinz.gdh_buatan_sendiri",
-    "name": "Vinz Menu",
+    "name": "Vinz Cheat Menu",
     "version": "v1.0.0",
     "developer": "Vinz",
-    "description": "Mod Menu buatan Vinz sendiri dengan fitur Noclip, Speedhack, dan Bot Replay!",
-    "dependencies": []
+    "description": "Mod Menu modern buatan Vinz sendiri pake SDK v5.7.1!",
+    "api": {
+        "platforms": ["android"]
+    }
 }
