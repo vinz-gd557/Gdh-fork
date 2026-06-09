@@ -1,0 +1,13 @@
+{
+    "geode": "5.7.1",
+    "gd": {
+        "win": "2.2081",
+        "android": "2.2081"
+    },
+    "id": "vinz.mod_keren_pertama",
+    "name": "Vinz First Mod",
+    "version": "v1.0.0",
+    "developer": "Vinz",
+    "description": "Mod buatan Vinz sendiri yang anti-stress dan lancar di 2.2081!",
+    "dependencies": []
+}
